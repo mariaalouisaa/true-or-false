@@ -1,5 +1,17 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    height: 3rem;
+    font-size: 4rem;
+}
+
 .fact {
-    background-color: red;
-    height: 10rem;
-    width: 10rem;
+    background-color: lightgray;
+    border: 1px solid darkgray;
+    font-size: 2rem;
+    padding: 2rem;
+    /* height: 10rem;
+    width: 10rem; */
 }
