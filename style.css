@@ -8,10 +8,14 @@ h1 {
 }
 
 .fact {
-    background-color: lightgray;
+    background-color: lightblue;
     border: 1px solid darkgray;
+    border-radius: 0.5rem;
     font-size: 2rem;
     padding: 2rem;
-    /* height: 10rem;
-    width: 10rem; */
+}
+
+button {
+    font-size: 1.5rem;
+    margin: 0.5rem;
 }
