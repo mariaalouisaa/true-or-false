@@ -12,9 +12,9 @@
 
 */
 
-let trueAnswer = ['A cat is a mammal'];
+let trueAnswer = ['A cat is a mammal', 'Two is an even number'];
 
-let falseAnswer = ['A dog is a marsupial.'];
+let falseAnswer = ['A dog is a marsupial', 'Boats typically fly through the air'];
 
 let fact = document.getElementById('fact');
 
